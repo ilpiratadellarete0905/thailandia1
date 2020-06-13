@@ -1,5 +1,16 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
+#EXTINF:-1,TH: 3 HD
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55292
+#EXTINF:-1,TH: 5 HD
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55291
+#EXTINF:-1,TH: 7 HD
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55290
+#EXTINF:-1,TH: PBS HD
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55262
+#EXTINF:-1,TH: MONO PLUS
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55285
+#EXTINF:-1,TH: MUSLIM TV
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/55284
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
 http://news1.live14.com/stream/news1_hi.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="KH;TH" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV,bTV News
